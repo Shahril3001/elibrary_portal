@@ -1,3 +1,4 @@
-# citizenportal
-WebDevAsg1
-"# elibrary_portal" 
+# Library Book Loan System (html, css, js & php)
+A web-based platform developed in PHP, which is designed to revolutionize how library resources are accessed and managed by the librarians. This system aims to provide a seamless and efficient library experience, fostering enhanced accessibility, efficient resource management, and data-driven insights for informed decision-making.
+
+The principal goal of a library is to provide access to a diverse variety of information resources for purposes such as educational and research. In addition to utilizing the library’s resources, library patrons have the opportunity to loan or borrow books, with the expectation that they will be returned before or on the set due date. An integral part of this pursuit is the improvement of library systems, traditionally characterized by manual processes and limited accessibility.
